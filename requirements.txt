@@ -1,3 +1,0 @@
-discord.py>=2.0.0
-# any other packages your bot uses, e.g. python-dotenv, aiohttp, etc.
-
